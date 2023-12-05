@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: azure;
+}
+
+ul {
+    padding: 0;
+}
+
+.list__elements {
+    margin-left: 800px;
+    margin-right: 920px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 350px;
+    background-color: rgb(209, 229, 246);
+    border-radius: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+.list-style-1 {
+    list-style: url("./icon/done_all_FILL0_wght400_GRAD0_opsz24.svg");
+    padding-left: 30px;
+}
+
+.list-style-2 {
+    padding-top: 5px;
+}
